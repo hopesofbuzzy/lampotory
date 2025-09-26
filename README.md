@@ -2,17 +2,15 @@
 	<img src="assets/logo/github_logo.png" width="500" alt="Lampotory logo">
 </p>
 
-**Lamporoty is an open, accessible and completely free 2D virtual laboratory.**
-The project wants to provide a convenient and free tool for studying physics and other subjects.
-Let's make education even more accessible! Project at the stage of **alpha**. Made with **Godot engine 4.2**.
+# Лампотория - это бесплатная 2Д виртуальная лаборатория по физике**
+Исследуй физику с помощью симуляций. Проводи лабораторные работы, проверяй работу законов механики и других разделов физики (в разработке).
 
-Please use my work with attribution. Not for commercial use.
+Разрешено использование проекта в некоммерческих целях.
 
-****About developer****
-* Author: BendySonic (itsmebuzzy, mrbuzzy)
-* ФИО: НДБ
-* itch-io - https://itsmebuzzy.itch.io/lampotory
+## Авторство
+* hopesofbuzzy
 
-***Video***
+## Запуск и демонстрация
+Лампотория доступна на Windows 10, 11. Установить ПО можно в разделе релизов справа. Последний релиз - v0.1.3-alpha.
 
 https://rutube.ru/video/d65e9aab7dbd6f248b4d93f1661759b6/
